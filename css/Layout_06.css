@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #875CAF;
+    border-radius: 5px;
+}
+
+/*header start*/
+
+.header {
+    width: 100%;
+    min-height: 350px;
+    background-color: #024B52;
+    overflow: hidden;
+}
+
+.header_top {
+    width: 100%;
+    min-height: 90px;
+    overflow: hidden;
+}
+
+.header_logo {
+    width: 15%;
+    min-height: 50px;
+    background-color: darkslategray;
+    float: left;
+    margin-left: 150px;
+    margin-top: 15px
+}
+
+.header_nav {
+    width: 40%;
+    min-height: 50px;
+    background-color: darkslategray;
+    float: right;
+    margin-top: 14px;
+    margin-right: 200px;
+}
+
+.header_bottom {
+    width: 100%;
+    min-height: 240px;
+    overflow: hidden;
+}
+
+.header_bottom_left {
+    width: 30%;
+    min-height: 200px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 150px;
+    margin-top: 18px;
+}
+
+.upper_part {
+    width: 100%;
+    min-height: 99px;
+    border: 1px solid black;
+
+}
+
+.lower_part {
+    width: 100%;
+    min-height: 99px;
+    border: 1px solid black;
+}
+
+.haeder_bottom_pic {
+    width: 40%;
+    min-height: 200px;
+    border: 1px solid black;
+    float: right;
+    margin-right: 200px;
+    margin-top: 18px;
+}
+
+/*header end*/
+
+/*doted part start*/
+
+.dot_dot {
+    background-color: #D3D3D3;
+    min-height: 50px;
+    width: 100%;
+
+}
+
+/*doted part end*/
+
+/*content start*/
+
+.content {
+    width: 100%;
+    min-height: 700px;
+    background-color: #FAFAFA;
+    overflow: hidden;
+}
+
+.main_content {
+    width: 100%;
+    min-height: 600px;
+    overflow: hidden;
+}
+
+.main_content_top {
+    width: 100%;
+    min-height: 200px;
+    overflow: hidden;
+
+}
+
+.main_content_top_box {
+    width: 25%;
+    min-height: 180px;
+    background-color: gray;
+    float: left;
+    margin-left: 75px;
+    margin-top: 10px;
+}
+
+.main_content_top_box_header {
+    width: 100%;
+    min-height: 50px;
+    overflow: hidden;
+}
+
+.main_content_top_box_logo {
+    width: 20%;
+    background-color: darkseagreen;
+    min-height: 35px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 7px;
+}
+
+.main_content_top_box_name {
+    width: 60%;
+    min-height: 35px;
+    float: right;
+    background-color: greenyellow;
+    margin-right: 25px;
+    margin-top: 7px;
+
+}
+
+.main_content_top_box_content {
+    width: 80%;
+    min-height: 100px;
+    border: 1px solid black;
+    margin-left: 41px;
+}
+
+.main_content_top_box_button {
+    text-align: center;
+    margin-top: 4px;
+}
+
+.main_content_bottom {
+    width: 100%;
+    min-height: 400px;
+    overflow: hidden;
+}
+
+.main_content_bottom_box {
+    width: 25%;
+    min-height: 370px;
+    background-color: gray;
+    float: left;
+    margin-left: 75px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.main_main_content_bottom_box_pic {
+    background-color: #2DCC9F;
+    min-height: 150px;
+    width: 80%;
+    border: 1px solid black;
+    margin-left: 39px;
+    margin-top: 11px;
+
+}
+
+.main_content_bottom_box_name {
+    width: 90%;
+    min-height: 50px;
+    background-color: #88BC92;
+    margin-top: 7px;
+    margin: 11px 16px;
+    border-radius: 5px;
+
+}
+
+.main_content_bottom_box_content {
+    width: 80%;
+    min-height: 100px;
+    border: 1px solid black;
+    margin-left: 39px;
+    margin-top: 11px;
+}
+
+.main_content_bottom_box_button {
+    text-align: center;
+    margin-top: 4px;
+}
+
+.content_footer {
+    width: 100%;
+    min-height: 100px;
+    overflow: hidden;
+}
+
+.content_footer_left {
+    width: 50%;
+    min-height: 100px;
+    overflow: hidden;
+    float: left;
+    margin-left: 197px;
+}
+
+.content_footer_left_logo {
+    width: 10%;
+    min-height: 70px;
+    background-color: aquamarine;
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.content_footer_left_text {
+    width: 87%;
+    min-height: 70px;
+    background-color: blueviolet;
+    float: right;
+    margin-top: 15px;
+}
+
+.content_footer_right {
+    width: 20%;
+    min-height: 100px;
+    float: right;
+    margin-right: 268px;
+    padding-top: 8px;
+    padding-right: 7px;
+}
+
+.content_footer_button {
+    text-align: center;
+    margin-top: 35px;
+
+}
+
+/*content end*/
+
+/*footer start*/
+
+.footer {
+    width: 100%;
+    min-height: 100px;
+    background-color: #05373C;
+    overflow: hidden;
+}
+
+.footer_nav {
+    width: 40%;
+    min-height: 70px;
+    background-color: skyblue;
+    float: left;
+    margin-left: 130px;
+    margin-top: 14px;
+}
+
+.footer_text {
+    width: 30%;
+    min-height: 70px;
+    background-color: slateblue;
+    float: right;
+    margin-top: 14px;
+    margin-right: 120px;
+}
+
+/*footer end*/
